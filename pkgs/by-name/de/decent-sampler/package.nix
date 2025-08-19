@@ -96,6 +96,7 @@ buildFHSEnv {
     maintainers = with maintainers; [
       adam248
       chewblacka
+      kaptcha0
     ];
   };
 }
