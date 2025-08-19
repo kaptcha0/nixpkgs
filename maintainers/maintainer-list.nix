@@ -66,6 +66,11 @@
 {
   # keep-sorted start case=no numeric=no block=yes
 
+  kaptcha0 = {
+    name = "J'C Kabunga"
+    github = "kaptcha0"
+    githubId = 50426223
+  };
   _0b11stan = {
     name = "Tristan Auvinet Pinaudeau";
     email = "tristan@tic.sh";
